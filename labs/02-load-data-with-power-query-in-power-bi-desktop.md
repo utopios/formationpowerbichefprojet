@@ -1,4 +1,3 @@
-
 ```
 lab:
     title: 'Charger les données transformées dans Power BI Desktop'
@@ -22,7 +21,7 @@ Dans ce lab, vous apprendrez à :
 
 Pour réaliser cet exercice, ouvrez un navigateur et entrez l'URL suivante pour télécharger le dossier zip :
 
-`https://github.com/utopios/labs/02-load-data.zip`
+`https://github.com/utopios/formationpowerbichefprojet/labs/02-load-data.zip`
 
 Extrayez le dossier dans le dossier **C:\Users\Student\Downloads\02-load-data**.
 
