@@ -1,7 +1,3 @@
-Voici la traduction :
-
----
-
 ```
 lab:
     title: 'Obtenir des données dans Power BI Desktop'
@@ -25,7 +21,7 @@ Ce lab est conçu pour vous familiariser avec l'application Power BI Desktop, po
 
 Pour réaliser cet exercice, ouvrez un navigateur Web et entrez l'URL suivante pour télécharger le dossier zip :
 
-`https://github.com/utopios/formationpowerbi/labs/01-prepare-data.zip`
+`https://github.com/utopios/formationpowerbichefprojet/labs/01-prepare-data.zip`
 
 Extrayez le dossier dans le dossier **C:\Users\Student\Downloads\01-prepare-data**.
 
