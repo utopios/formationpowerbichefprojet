@@ -146,4 +146,3 @@ Dans cette tâche, vous allez configurer la requête **Product**.
 
 1. Affichez la liste complète des colonnes, puis cochez la case **Sélectionner toutes les colonnes** pour désélectionner toutes les colonnes.
 
-1. Sélectionnez **EnglishProductSubcategoryName** et **DimProductCategory**, et décochez la case **Utiliser le
