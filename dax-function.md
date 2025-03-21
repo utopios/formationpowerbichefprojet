@@ -1,0 +1,9 @@
+# Mesures standards
+- SUM
+- AVERAGE
+- COUNTROWS
+- AVERAGEX
+- DIVIDE
+- DISTINCT
+- MONTH,
+- TODAY

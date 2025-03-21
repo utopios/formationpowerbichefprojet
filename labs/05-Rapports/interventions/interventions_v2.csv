@@ -1,0 +1,21 @@
+ID_Intervention,ID_Technicien,ID_Équipement,Date_ID,ID_Région,Coût_Total,Type,Réduction_CO2,Subvention,ID_Subvention
+1,4,37,254,3,536,Intervention Corrective,3.47,116,1
+2,18,17,93,6,932,Intervention Préventive,0.77,134,2
+3,20,50,121,5,964,Intervention Corrective,0.96,221,5
+4,7,2,271,2,716,Intervention Préventive,1.75,88,10
+5,5,44,320,9,825,Intervention Préventive,3.38,165,8
+6,8,17,116,1,201,Intervention Corrective,2.43,122,3
+7,1,1,199,4,738,Intervention Préventive,3.66,0,
+8,20,43,155,8,355,Intervention Corrective,1.95,274,6
+9,4,45,1,7,673,Intervention Préventive,4.11,172,4
+10,12,23,160,10,215,Intervention Corrective,4.27,11,7
+11,9,6,262,6,310,Intervention Corrective,4.99,26,1
+12,16,48,278,3,282,Intervention Préventive,0.64,230,9
+13,3,10,325,9,124,Intervention Préventive,2.21,113,3
+14,13,24,346,2,459,Intervention Corrective,1.8,17,2
+15,6,5,305,5,462,Intervention Corrective,3.28,240,10
+16,18,39,295,8,543,Intervention Préventive,2.64,209,5
+17,7,37,239,1,467,Intervention Corrective,4.69,93,6
+18,17,27,194,7,314,Intervention Corrective,1.14,202,8
+19,12,6,250,4,305,Intervention Préventive,1.47,22,4
+20,11,4,175,3,853,Intervention Corrective,3.72,151,9
